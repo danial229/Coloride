@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ColouRide</string>
+    <string name="title_activity_change_color">ChangeColorActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="drawerOpen">drawerOpen</string>
+    <string name="drawerClose">drawerClose</string>
+</resources>

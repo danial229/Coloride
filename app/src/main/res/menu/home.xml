@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuMuCar"
+        android:title="My Car" />
+
+    <item
+        android:id="@+id/menuExistingModel"
+        android:title="Existing Models" />
+
+    <item
+        android:id="@+id/menuSavedCars"
+        android:title="Saved Models" />
+
+    <item
+        android:id="@+id/menuFindGarage"
+        android:title="Find Garage" />
+
+    <item
+        android:id="@+id/menuAbout"
+        android:title="About" />
+
+</menu>
